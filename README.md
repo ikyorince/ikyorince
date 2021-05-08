@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ikyorince
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Shafee
+- 👀 I’m interested in everything I can learn
 - 🌱 I’m currently learning Python, Data Science and Machine Learning
 - 💞️ I’m looking to collaborate on any project to learn the above stuff
 - 📫 How to reach me
